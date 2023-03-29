@@ -10,12 +10,26 @@
 <h2>About the project</h2>
 <p>In this project I made a points system where on the left side are the points you get by crossing the avenue and the right side for maximum points record. I used a cow as the main character instead of the chicken.</p>
 <br>
-<i>It was necessary to use functions, repeat structures, and conditional structures.</i>
+<i>It was necessary to use functions, arrays, repeat structures, and conditional structures.</i>
+<br>
+<h2>Javascript library</h2>
+
+<i><b><a href="https://p5js.org/">p5.js</a></b></i><br>
+<i><b><a href="https://github.com/bmoren/p5.collide2D">p5.collide2D</a></b></i>
 
 
+<p>p5.js is an open-source JavaScript library that was developed to simplify the creation of art, animation, and interactivity for the web.</p>
 
+<h3>Detail</h3>
+<p>I made this project based on the programming logic classes (Programming Logic: Loops and Lists with JavaScript) at Alura and you can see my profile of the courses I've done <a href="https://cursos.alura.com.br/user/gabrieldossantossilva69">here.</a></p>
 
-
+<h2 align="center">Social media</h2>
+<div align="center">
+  <a href="https://docs.google.com/document/d/1Iu1S0jgaxeRH-wLubf6SKQgXmGlLAHdARuX-vhfSgic/edit" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabri6l_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-dos--santos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/gabrieldossant"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
 
 
